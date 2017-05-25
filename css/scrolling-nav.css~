@@ -1,0 +1,104 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+  	color: #5a5a5a;
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+
+.navbar {
+    text-align: center;
+    padding-left: 250px;
+}
+
+.intro-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #000000;
+	background-image: url(../images/13151402_1196285030406485_6803192418419358740_n.jpg);
+ 	background-size: 1200px 800px;
+}
+
+.countdown-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #0a1010;
+}
+
+.lineup-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #0a1010;
+}
+
+.music-section {
+    height: 700%;
+    padding-top: 100px;
+    text-align: center;
+    background: #000000;
+}
+
+.street-art-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #0a1010;
+}
+
+.live-performances-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #000000;
+}
+
+.sport-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #0a1010;
+}
+
+.about-us-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #000000;
+}
+
+.contact-section {
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    background: #0a1010;
+}
